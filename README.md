@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## projects
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsnk&repo=band-finder)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsnk&repo=band-finder)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsnk)
 <!--
