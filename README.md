@@ -1,10 +1,12 @@
 ## 🎸 About me
 Aspiring Software Developer and musician.
 ## 🔭 I’m currently working on ...
-- band-finder (Flask + Beautiful Soup)
-- thuis-in-de-achterhoek-bot
+- band-finder (Python: Flask + Beautiful Soup)
+- thuis-in-de-achterhoek-bot (Python: Selenium)
+
+
 ## 🌱 I’m currently learning ...
-- Python
+I just started a new course "The Complete JavaScript Course 2025: From Zero to Expert!" By Jonas Schmedtmann.
 ## 👯 I’m looking to collaborate on ...
 Beginner Friendly Open Source Projects and good first issues to improve my skills and learn from feedback. 
 ## 📈 Statistics
