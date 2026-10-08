@@ -1,5 +1,3 @@
-## 🎸 About me
-Aspiring Software Developer and musician.
 ## 🔭 I’m currently working on ...
 - band-finder (Python: Flask + Beautiful Soup)
 - thuis-in-de-achterhoek-bot (Python: Selenium)
